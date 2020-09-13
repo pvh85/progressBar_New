@@ -1,0 +1,17 @@
+{
+	"caption": "caption",
+	"progresses": [{
+			"idItem": 1,
+			"label": "Progress test 1",
+			"position": 32,
+			"count": 100
+		},
+		{
+			"idItem": 2,
+			"label": "Progress test 2",
+			"position": 64,
+			"count": 100
+		}
+	],
+	"canUserBreak": false
+}
