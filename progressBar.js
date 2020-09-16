@@ -91,7 +91,6 @@ class barWindow {
   // является дочкой элемента который указали на вход
   open(elem) {
     this.parent = elem;
-    console.log(this.parent.attr('id'))
     this.parent.append(this.dialogDiv)
     this.dialogBlock = $("#" + this.id)
     this.dialogBlock.dialog({
